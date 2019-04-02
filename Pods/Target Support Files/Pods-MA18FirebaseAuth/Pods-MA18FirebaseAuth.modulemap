@@ -1,0 +1,6 @@
+framework module Pods_MA18FirebaseAuth {
+  umbrella header "Pods-MA18FirebaseAuth-umbrella.h"
+
+  export *
+  module * { export * }
+}
